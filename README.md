@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manusoft
+- 👋 Hi, I’m Manojbabu
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning vb.net
+- 🌱 I’m currently working with vb.net, C#, HTML, JavaScript, NodeJS, React, MS-SQL, MYSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
