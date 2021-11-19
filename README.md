@@ -2,6 +2,8 @@
 
 <p align="center" dir="auto"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft" style="max-width: 100%;"></p>
 
+<h2>⚡ About me:</h2>
+
 - 🔭 I’m currently working on <b>Desktop</b> & <b>Web</b> applications
 - 🌱 I’m currently learning <b>Flutter</b>
 - 👀 I’m interested in programming 
@@ -17,7 +19,7 @@
 <li><a href="https://www.facebook.com/manuven" rel="nofollow">Facebook</a></li>
 <li><a href="https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA" rel="nofollow">Youtube</a></li>
 </ul>
-<h2>👨‍💻 My Skills:</h2><br>
+<h2>💻 My Skills:</h2><br>
 <p>
   <img src="https://user-images.githubusercontent.com/83714923/142677402-8d61ffd3-8300-4f8e-8169-01a2091f6149.png" style="width:100px;height:100px;">
   <img src="https://user-images.githubusercontent.com/83714923/142681299-48128db5-5c3f-4751-9e99-2d4ea52a8b79.png" style="width:100px;height:100px;">
