@@ -40,7 +40,4 @@
 </p>
 
 
-
-  ![image (2)](https://user-images.githubusercontent.com/83714923/142685420-a915c605-bb0e-434d-adb7-9fa55bebeaa0.gif)
-
   
