@@ -53,7 +53,7 @@
 <h2 align="left">🚀 My Github Stats:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manusoft&border_color=404040&bg_color=404040&text_color=ffff&title_color=3EDCFF" alt="manusoft" /></p>
   
-  <--!--
+  <!--
   <img src="https://user-images.githubusercontent.com/83714923/142677402-8d61ffd3-8300-4f8e-8169-01a2091f6149.png" style="width:90px;height:90px;">
   <img src="https://user-images.githubusercontent.com/83714923/142681299-48128db5-5c3f-4751-9e99-2d4ea52a8b79.png" style="width:90px;height:90px;">
   <img src="https://user-images.githubusercontent.com/83714923/142675767-a6f39047-f75d-4e37-aa07-e1ac37e0df63.png" style="width:90px;height:90px;">
@@ -73,7 +73,7 @@
   <img src="https://user-images.githubusercontent.com/83714923/142681689-f25e99fd-bb36-4166-a311-1f8ce42a6441.png" style="width:90px;height:90px;">
   <img src="https://user-images.githubusercontent.com/83714923/142682045-ab09c8e5-0bc1-4671-b42f-ec584601247e.png" style="width:90px;height:90px;">
   
-  <--!-->
+  !-->
   
   
   
