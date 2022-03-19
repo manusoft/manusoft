@@ -1,3 +1,12 @@
+<body>
+    <div class="container">
+        <h1>Manoj Babu</h1>
+        <h2>I'm   
+            <span class="txt-type" data-wait="3000" data-words='["Indian","Programer","Developer"]'></span>
+        </h2>
+    </div>
+</body>
+
 <img alt="Hi, I’m Manojbabu" src="https://user-images.githubusercontent.com/83714923/142685420-a915c605-bb0e-434d-adb7-9fa55bebeaa0.gif" style="width:100%;height:120px;">
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft" style="max-width: 100%;"></p>
@@ -20,9 +29,7 @@
 - [Youtube](https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA)
 
 <h2>💻 My Skills:</h2><br>
-<p>
-
-  
+<p>  
   <img src="https://img.shields.io/badge/q-basic-1ABC9C?style=for-the-badge&logo=q-basic&logoColor" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/fortran-DFB317?style=for-the-badge&logo=fortran&logoColor" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/cobol-0170BA?style=for-the-badge&logo=cobol&logoColor=blue" style="width:200px;height:60px;"/>
@@ -47,7 +54,6 @@
   <img src="https://img.shields.io/badge/dart-FCD006?style=for-the-badge&logo=dart&logoColor=173A79" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/flutter-69B7F9?style=for-the-badge&logo=flutter&logoColor=173A79" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/python-366994?style=for-the-badge&logo=python&logoColor=FFC331" style="width:200px;height:60px;"/>
-
 </p>
 
 <h2 align="left">🚀 My Github Stats:</h2>
