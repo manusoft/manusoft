@@ -1,4 +1,3 @@
-
 <img alt="Hi, I’m Manojbabu" src="https://user-images.githubusercontent.com/83714923/142685420-a915c605-bb0e-434d-adb7-9fa55bebeaa0.gif" style="width:100%;height:120px;">
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft" style="max-width: 100%;"></p>
