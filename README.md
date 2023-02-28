@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Desktop**, Mobile & **Web** applications
 - 📺 You can watch my [videos on YouTube](https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA)
-- 🌱 I’m currently working **Maui and WinUI3**
+- 🌱 I’m currently learning **Maui and WinUI3**
 - 💬 Ask me about **C# and VB** 
 - 💞️ I’m looking to collaborate on **.NET, C#**
 - 📫 How to reach me **alconsoft@gmail.com**
