@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Desktop**, Mobile & **Web** applications
 - 🌱 I’m currently learning **Maui and Flutter**
-- 👀 I’m interested in programming 
 - 🌱 I’m currently working with **VB.NET, C#, HTML, JavaScript, NodeJS, React, PHP, MS-SQL, MYSQL**
 - 💬 Ask me about **C# and VB** 
 - 💞️ I’m looking to collaborate on **.NET, C#**
@@ -50,8 +49,13 @@
 </p>
 
 <h2 align="left">🚀 My Github Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manusoft&border_color=404040&bg_color=404040&text_color=ffff&title_color=3EDCFF" alt="manusoft" /></p>
   
+  ![Manojbabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusoft&theme=prussian&border_color=404040&show_icons=true)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusoft&theme=prussian&border_color=404040)
+   
+  
+
   <!--
   <img src="https://user-images.githubusercontent.com/83714923/142677402-8d61ffd3-8300-4f8e-8169-01a2091f6149.png" style="width:90px;height:90px;">
   <img src="https://user-images.githubusercontent.com/83714923/142681299-48128db5-5c3f-4751-9e99-2d4ea52a8b79.png" style="width:90px;height:90px;">
