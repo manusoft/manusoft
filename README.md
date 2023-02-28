@@ -10,6 +10,7 @@
 - 💬 Ask me about **C# and VB** 
 - 💞️ I’m looking to collaborate on **.NET, C#**
 - 📫 How to reach me **alconsoft@gmail.com**
+- 😄 Pronouns: He/Him
 
 <h2>🌏 Connect with me:</h2>
 
