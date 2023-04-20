@@ -45,10 +45,13 @@
   <img src="https://img.shields.io/badge/fortran-DFB317?style=for-the-badge&logo=fortran&logoColor" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/cobol-0170BA?style=for-the-badge&logo=cobol&logoColor=blue" style="width:200px;height:60px;"/>
   <img src="https://img.shields.io/badge/q-basic-1ABC9C?style=for-the-badge&logo=q-basic&logoColor" style="width:200px;height:60px;"/> 
-
- 
 </p>
-
+  
+<h2 align="left">🚀 My Github Stats:</h2>
+  
+  ![Manojbabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusoft&theme=prussian&border_color=404040&show_icons=true)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusoft&theme=prussian&border_color=404040) 
 
   
   
