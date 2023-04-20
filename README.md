@@ -49,11 +49,7 @@
  
 </p>
 
-<h2 align="left">🚀 My Github Stats:</h2>
-  
-  ![Manojbabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusoft&theme=prussian&border_color=404040&show_icons=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusoft&theme=prussian&border_color=404040) 
+
   
   
   
