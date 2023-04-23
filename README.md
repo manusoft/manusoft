@@ -51,7 +51,7 @@
   
   ![Manojbabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusoft&theme=prussian&border_color=404040&show_icons=true)
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&theme=prussian&border_color=404040) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusoft&theme=prussian&border_color=404040) 
 
   
   
