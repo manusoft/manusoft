@@ -1,59 +1,13 @@
-<!--<img alt="Hi, I’m Manojbabu" src="https://user-images.githubusercontent.com/83714923/142685420-a915c605-bb0e-434d-adb7-9fa55bebeaa0.gif" style="width:100%;height:120px;">-->
-<h1><b>Manojbabu<b></h1>
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=manusoft" style="max-width: 100%;"></p>
+# Scorpio API
+Powered by [iptv-org](https://github.com/iptv-org/)
 
-<h2>⚡ About me:</h2>
+6,369 channels and its streams available now
 
-- 🔭 I’m currently working on **Desktop**, Mobile & **Web** applications
-- 📺 You can watch my [videos on YouTube](https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA)
-- 🌱 I’m currently learning **Maui and WinUI3**
-- 💬 Ask me about **C# and VB** 
-- 💞️ I’m looking to collaborate on **.NET, C#**
-- 📫 How to reach me **alconsoft@gmail.com**
-- 😄 Pronouns: He/Him
 
-<h2>🌏 Connect with me:</h2>
+## Legal
 
-- [Twitter](https://twitter.com/alconsoft)
-- [Instagram](https://www.instagram.com/man0jbabu/) 
-- [Facebook](https://www.facebook.com/manuven)
-- [Youtube](https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA)
+No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/iptv-org/database/pulls) or opening an [issue](https://github.com/iptv-org/database/issues/new/choose). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
-<h2>💻 My Skills:</h2><br>
-<p>  
-  <img src="https://img.shields.io/badge/MAUI-004E8C?style=for-the-badge&logo=.net&logoColor=yellow" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/WINUI-3-004E8C?style=for-the-badge&logo=.net&logoColor=yellow" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/visual%20basic-004E8C?style=for-the-badge&logo=.net&logoColor=yellow" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/C%20SHARP-9A4993?style=for-the-badge&logo=.net&logoColor=yellow" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/asp.net-FF9930?style=for-the-badge&logo=.net&logoColor" style="width:200px;height:60px;"/>
-  
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=blue" style="width:200px;height:60px;"/>
-  
-  <img src="https://img.shields.io/badge/flutter-69B7F9?style=for-the-badge&logo=flutter&logoColor=173A79" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/dart-FCD006?style=for-the-badge&logo=dart&logoColor=173A79" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=5ADAFD" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/nodejs-8CC64C?style=for-the-badge&logo=node.js&logoColor=red"style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/php-788AC8?style=for-the-badge&logo=php&logoColor=black" style="width:200px;height:60px;"/>
-  
-  <img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=0B66AD" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/bootstrap-7E12FB?style=for-the-badge&logo=bootstrap&logoColor=white" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/html5-E44D26?style=for-the-badge&logo=html5&logoColor=white" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/css3-0170BA?style=for-the-badge&logo=css3&logoColor" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="width:200px;height:60px;"/>
-  
-  <img src="https://img.shields.io/badge/c-659AD2?style=for-the-badge&logo=c&logoColor=5C2D91" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/fortran-DFB317?style=for-the-badge&logo=fortran&logoColor" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/cobol-0170BA?style=for-the-badge&logo=cobol&logoColor=blue" style="width:200px;height:60px;"/>
-  <img src="https://img.shields.io/badge/q-basic-1ABC9C?style=for-the-badge&logo=q-basic&logoColor" style="width:200px;height:60px;"/> 
-</p>
-  
-<h2 align="left">🚀 My Github Stats:</h2>
-  
-  ![Manojbabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusoft&theme=prussian&border_color=404040&show_icons=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusoft&theme=prussian&border_color=404040) 
+## License
 
-  
-  
-  
-  
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)

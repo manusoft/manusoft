@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="prism.css">
+    <script src="prism.js"></script>
+
+    <title>Scorpio API</title>
+   
+    <!-- add icon link -->
+    <link rel = "icon" href ="scorpiologo.png" type = "image/x-icon">
+</head>
+
+<body>
+    <!--- Navbar -->
+    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand logo-text" href="#">♏ Scorpio API</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#download">Download</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#features">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#Legal">Legal</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">About</a>
+                    </li>
+                    <li class="nav-item ms-lg-3">
+                        <button type="button" class="btn btn-outline-info">Register</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--- Navbar -->
+
+    <!--- Welcome -->
+    <div class="welcome vh-100 d-flex align-items-center" id="home">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 mx-auto text-center">
+                    <h1 class="dispaly-4 text-success">Welcome to Scorpio API</h1>
+                    <h3 id="counts" class="text-white"></h3>
+                    <p class="text-white">Channels available now, updates every 7 days</p>
+                    <button type="button" class="btn btn-primary">Get Started</button>
+                    <button type="button" class="btn btn-outline-info ms-lg-1"
+                        onclick="location.href='https://iptv-org.github.io/'">Visit iptv-org</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--- Welcome -->
+
+    <!--- Downloads -->
+    <section id="download">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 mx-auto text-center">
+                    <h6 class="text-primary">DOWNLOAD</h6>
+                    <h2>ScorpioTV</h2>
+                    <p>From Laksya Solutions, powered by <a href="https://github.com/iptv-org/">iptv-org</a></p>
+                    <p>Watch IPTV from your Internet Service Provider or free live TV channels from any other source on
+                        the web.</p>
+                    <p>Android, iphone, windows available here</p>
+
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-lg-4 col-sm-6">
+                    <div class="iconbox card-effect">
+                        <div class="iconbox-icon">
+                            <i class='bx bxl-android'></i>
+                        </div>
+                        <div class="iconbox-text">
+                            <p class="text-center">Mobile, Tablet and TV</p>
+                            <hr>
+                            <h1 class="mt-4 mb-2 text-center">Android</h1>
+                            <hr>
+                            <p class="text-center">Minimum Requirements (Version 2.23.7.14) Android OS 4.1 or above</p>
+                            <hr>
+                            <p><a href="https://drive.google.com/file/d/1-w9SomqHjlT5NLBKsXR2v9xdxslrtMfR/view?usp=share_link"><img src="google.png"></a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="iconbox card-effect">
+                        <div class="iconbox-icon text-center">
+                            <i class='bx bxl-apple'></i>
+                        </div>
+                        <div class="iconbox-text">
+                            <p class="text-center">Mobile and Mac</p>
+                            <hr>
+                            <h1 class="mt-4 mb-2 text-center">iOS</h1>
+                            <hr>
+                            <p class="text-center">Minimum Requirements (Version 22.13.74) Requires iOS 12.0 or newer
+                            </p>
+                            <hr>
+                            <img src="apple.png" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="iconbox card-effect">
+                        <div class="iconbox-icon text-center">
+                            <i class='bx bxl-windows'></i>
+                        </div>
+                        <div class="iconbox-text">
+                            <p class="text-center">Desktop</p>
+                            <hr>
+                            <h1 class="mt-4 mb-2 text-center">Windows</h1>
+                            <hr>
+                            <p class="text-center">Minimum Requirements (version 1803) Windows 10 or newer</p>
+                            <hr>
+                            <p><a href="https://drive.google.com/file/d/1Lo1zEhYUXv74M5bsIDxEv_N4ce4UOfPr/view?usp=share_link"><img src="microsoft.png"></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--- Downloads -->
+
+    <!--- Features -->
+    <section class="row w-100 bg-light" id="features">
+        <div class="col-lg-6  mx-auto col-img"> </div>
+        <div class="col-lg-6 ">
+            <div class="conatiner">
+                <div class="row">
+                    <div class="col-md-10 offset-md-1">
+                        <h4 class="text-primary">HOW TO GET SCORPIO API</h4>
+                        <p>Please contact us for latest ScorpioAPI link</p>
+                        <div >
+                            <pre class="language-json"><code>
+[
+//...
+{
+    "Id": "1001Noites.br",
+    "Name": "1001 Noites",
+    "Country": "BR",
+    "Languages": "por,eng",
+    "Categories": "shop",
+    "Website": null,
+    "Logo": "https://i.imgur.com/dWA9y2J.png",
+    "Streams": {
+        "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    }
+    },
+//...
+]
+                                    </code></pre>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--- Features -->
+
+    <!--- Legal -->
+    <section id="Legal">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 mx-auto text-center">
+                    <h3 class="text-primary">Scorpio API</h3>
+                    <hr>
+                    <h2>Legal</h2>
+                    <p>No video files are stored in this repository. The repository simply contains user-submitted links
+                        to publicly available video stream URLs, which to the best of our knowledge have been
+                        intentionally made publicly by the copyright holders. If any links in these playlists infringe
+                        on your rights as a copyright holder, they may be removed by sending a <b><a
+                                href="https://github.com/iptv-org/database/pulls">pull request</a></b> or opening an
+                        <b><a href="https://github.com/iptv-org/database/issues/new/choose">issue</a></b>. However, note
+                        that
+                        we have no control over the destination of the link, and just removing the link from the
+                        playlist will not remove its contents from the web. Note that linking does not directly infringe
+                        copyright because no copy is made on the site providing the link, and thus this is not a valid
+                        reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact
+                        the web host that's actually hosting the content (not GitHub, nor the maintainers of this
+                        repository).
+                    </p>
+                    <hr>
+                    <h2>License</h2>
+                    <img width="175" height="175"
+                        src="https://camo.githubusercontent.com/80163f7b2e90d10162f1b595c71e432e245537c055de2dcf49846b5af8ab786a/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667">
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <!--- Legal -->
+
+    <!--- Contact -->
+    <section id="contact">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-md-8 mx-auto text-center">
+                    <h6 class="text-primary">CONTACT</h6>
+                    <h2>Keep in touch</h2>
+                    <p>To know more about mango api and further enquiries please contact us.</p>
+                </div>
+            </div>
+            <form action="mailto:themallucoder@gmail.com" method="post" enctype="text/plain" class="row g-3 justify-content-center">
+                <div class="col-md-5">
+                    <input type="text" class="form-control" placeholder="Name">
+                </div>
+                <div class="col-md-5">
+                    <input type="text" class="form-control" placeholder="Email">
+                </div>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" placeholder="Subject">
+                </div>
+                <div class="col-md-10">
+                    <textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+                </div>
+                <div class="col-md-10 d-grid">
+                    <input type="submit" value="Contact" class="btn btn-primary"></button>
+                </div>
+            </form>
+        </div>
+    </section>
+    <!--- Contact -->
+
+    <!--- Footer -->
+    <footer>
+        <div class="footer-bottom py-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 text-center">
+                        © 2023 Laksya Solutions. All right reserved
+                    </div>
+                    <div class="col-md-6">
+                        <div class="social-icons">
+                            <a href=""><i class='bx bxl-facebook-circle'></i></a>
+                            <a href=""><i class='bx bxl-twitter'></i></a>
+                            <a href=""><i class='bx bxl-instagram-alt'></i></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--- Footer -->
+
+
+    <script>
+        const root = document.getElementById('counts')
+        //counter variables
+        let counter = 7000
+        setInterval(() => {
+            counter = counter + 1
+            root.innerHTML = counter.toLocaleString('en-US')
+            if (counter == 8054) { counter = 7000 }
+        }, 1000);
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
