@@ -4,9 +4,10 @@
 
 <h2>⚡ About me:</h2>
 
+- 💌 I'm a Full Stack Developer from India
 - 🔭 I’m currently working on **Desktop**, Mobile & **Web** applications
 - 📺 You can watch my [videos on YouTube](https://www.youtube.com/channel/UCoMM7wGVmR85X_VwpByChlA)
-- 🌱 I’m currently learning **Maui and WinUI3**
+- 🌱 I’m currently work with **Blazor** and **Maui and WinUI3**
 - 💬 Ask me about **C# and VB** 
 - 💞️ I’m looking to collaborate on **.NET, C#**
 - 📫 How to reach me **alconsoft@gmail.com**
